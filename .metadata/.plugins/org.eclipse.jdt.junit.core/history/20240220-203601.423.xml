@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculadoraTeste" project="AAAAAAAAAAAA" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="FontesDeOperacoesTeste.CalculadoraTeste" time="0.0">
+    <testcase name="testeSomar3Com3" classname="FontesDeOperacoesTeste.CalculadoraTeste" time="0.0"/>
+    <testcase name="testeSomar5Com3" classname="FontesDeOperacoesTeste.CalculadoraTeste" time="0.0"/>
+    <testcase name="testeDividir15Com3" classname="FontesDeOperacoesTeste.CalculadoraTeste" time="0.0"/>
+    <testcase name="testeMultiplicar5Com3" classname="FontesDeOperacoesTeste.CalculadoraTeste" time="0.0"/>
+    <testcase name="testeSubtrair5Com3" classname="FontesDeOperacoesTeste.CalculadoraTeste" time="0.0"/>
+  </testsuite>
+</testrun>

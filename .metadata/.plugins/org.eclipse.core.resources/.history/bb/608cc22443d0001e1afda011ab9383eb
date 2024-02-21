@@ -1,0 +1,40 @@
+
+public class calculadora {
+	
+	private integer numero;
+	private integer numero2;
+	
+	public integer somar(integer numero1, integer numero2) {
+		return numero1 + numero2;
+	}
+	
+	public integer subtrair(integer numero1, integer numero2) {
+		return numero1 - numero2;
+	}
+	
+	public integer multiplicar(integer numero1, integer numero2) {
+		return numero1 * numero2;
+	}
+	
+	public integer dividir(integer numero1, integer numero2) {
+		return numero1 / numero2;
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		Scanner S = new Scanner(system.in);
+		System.out.println("Qual operação deseja realizar?\n"
+				+"1 para somar\n"
+				+"2 para subtrair\n"
+				+"3 para multiplicar\n"
+				+"4 para dividir");
+	int escolha = scan.nextInt();
+	if(escolha ==1) {
+		
+	}
+
+			
+	}
+	
+}

@@ -1,0 +1,24 @@
+package br.com.fiap.calculadora.model;
+
+public class Calculadora {
+	
+	public Integer somar(Integer numero1, Integer numero2) {
+		return numero1 + numero2;
+	}
+	
+	public Integer subtrair(Integer numero1, Integer numero2) {
+		return numero2 - numero1;
+	}
+	
+	public Integer multiplicar(Integer numero1, Integer numero2) {
+		return numero1 * numero2;
+	}
+	
+	public Integer dividir(Integer numero1, Integer numero2) {
+		return numero1 / numero2;
+	}
+	
+	
+}
+
+

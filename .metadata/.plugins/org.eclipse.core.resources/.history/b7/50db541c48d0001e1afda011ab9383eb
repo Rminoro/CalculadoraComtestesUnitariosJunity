@@ -1,0 +1,22 @@
+package FontesDeOperacoesTeste;
+
+import static org.junit.Assert.*;
+
+import br.com.fiap.calculadora.main.*;
+
+import br.com.fiap.calculadora.model.*;
+
+import org.junit.Test;
+
+public class CalculadoraTeste {
+
+	Calculadora calc = new Calculadora();
+	
+	
+	@Test
+	public void testeSomar5Com3() {
+		int resultado = calc.somar(5, 3);
+		
+	}
+
+}
